@@ -1,0 +1,23 @@
+body {
+	background-color: red;
+}
+
+#ryanmakuku.jpg {
+	max-width: 30%
+}
+
+#card-block{
+	background-color: red;
+}
+
+h3 {
+	text-align: center;
+} 
+
+.card-title {	
+	color: red;
+}
+
+.progress-info {
+	background-color: blue;
+}
